@@ -5,33 +5,28 @@ Application is hosted on heroku platform.
 Below is the url of live application.
 
 
-http://jeevnaghss.herokuapp.com
+https://jeevnaghss.herokuapp.com
+
+
+This website contains basic information of jeevna government higher secondary school.
+Various events can be integrate as required in future.
+
+Below are steps to build the code.
+
+
+1. make sure you have ROR installed in you system.
+2.Clone the given Git Url.
+3.Once you are on Root of your application run bundle install,that will install required dependencies for application.
+4.once it done hit below command to run the application.
+
+$ Rails s
+
+now go to your web browser and enter http://localhost:3000
+
+boom!! application is live on your local system.
+
+
+5.You can deploy your application on heroku or aws as per your requirement.
 
 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
