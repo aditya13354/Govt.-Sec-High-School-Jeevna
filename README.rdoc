@@ -1,5 +1,14 @@
 == README
 
+This website is bulid on Rails stack.
+Application is hosted on heroku platform.
+Below is the url of live application.
+
+
+http://jeevnaghss.herokuapp.com
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
